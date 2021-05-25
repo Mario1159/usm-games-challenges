@@ -10,7 +10,7 @@
 
 ### Building
 ```
-git clone https://github.com/Mario1159/usm-games-challenges
+git clone --recursive https://github.com/Mario1159/usm-games-challenges
 cd usm-games-challenges/coin_rain
 mkdir bin
 cd bin
